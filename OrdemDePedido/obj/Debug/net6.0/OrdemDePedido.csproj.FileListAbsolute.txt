@@ -1,0 +1,15 @@
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.csproj.AssemblyReference.cache
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.AssemblyInfoInputs.cache
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.AssemblyInfo.cs
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.csproj.CoreCompileInputs.cache
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\bin\Debug\net6.0\OrdemDePedido.exe
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\bin\Debug\net6.0\OrdemDePedido.deps.json
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\bin\Debug\net6.0\OrdemDePedido.runtimeconfig.json
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\bin\Debug\net6.0\OrdemDePedido.dll
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\bin\Debug\net6.0\ref\OrdemDePedido.dll
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\bin\Debug\net6.0\OrdemDePedido.pdb
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.dll
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\ref\OrdemDePedido.dll
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.pdb
+D:\Projetos C#\Enumerações e composição\Ordem de pedido\OrdemDePedido\OrdemDePedido\obj\Debug\net6.0\OrdemDePedido.genruntimeconfig.cache
